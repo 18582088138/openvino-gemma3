@@ -18,3 +18,7 @@ python hf_gemma3_download.py
 ```
 python ov_gemma3_infer.py
 ```
+- Step 4. Gradio gemma3 multimodal assistant demo 
+```
+ov_gemma3_gradio_demo.ipynb
+```
